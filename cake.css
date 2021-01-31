@@ -1,0 +1,27 @@
+*body {
+  margin: 0px;
+  padding: 0px;
+}
+.def {
+  font-size: 13px;
+}
+
+.btn1 :hover {
+  color: yellow;
+}
+.aboutdenshop {
+  font-size: 60px;
+}
+.btn2 {
+}
+.Den {
+  font-size: 55px;
+  border-bottom: 5px;
+}
+.Den1 {
+  font-weight: 800;
+}
+.banner-image {
+  width: 90%;
+  height: 80vh;
+}
